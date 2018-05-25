@@ -14,7 +14,7 @@ export default class Main extends Component {
       </div>
       <div className="container">
         <div className="row">
-          <div className="col-7">
+          <div className="col-xl-7">
             <h2>Trainingszeiten</h2>
             <p>Montags (Krückkau-Halle): 20.30 – 22.00 Uhr</p>
             <p>Mittwochs (Rampskamp-Halle): 20.00 – 22.00 Uhr</p>
