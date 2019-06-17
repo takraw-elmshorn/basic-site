@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import ReactPlayer from 'react-player'
-import plakatScaled from './DC_plakat2018_F6_scaled.jpg'
-import plakat from './DC_plakat2018_F6.jpg'
+import plakatScaled from './DC_plakat2019_F6_scaled.jpg'
+import plakat from './DC_plakat2019_F6.jpg'
 
 export default class Main extends Component {
   render () {
@@ -27,7 +27,7 @@ export default class Main extends Component {
           </div>
           <div className="col">
             <a href={plakat}>
-              <img src={plakatScaled} alt="Dragons Cup 2018" />
+              <img src={plakatScaled} alt="Dragons Cup 2019" />
             </a>
           </div>
         </div>
